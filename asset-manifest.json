@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ishan-Pradhan.github.io/The-React-Quiz/static/css/main.beb13c0a.css",
+    "main.js": "/Ishan-Pradhan.github.io/The-React-Quiz/static/js/main.dff12899.js",
+    "index.html": "/Ishan-Pradhan.github.io/The-React-Quiz/index.html",
+    "main.beb13c0a.css.map": "/Ishan-Pradhan.github.io/The-React-Quiz/static/css/main.beb13c0a.css.map",
+    "main.dff12899.js.map": "/Ishan-Pradhan.github.io/The-React-Quiz/static/js/main.dff12899.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb13c0a.css",
+    "static/js/main.dff12899.js"
+  ]
+}
